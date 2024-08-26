@@ -1,4 +1,4 @@
-<img src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/conversational-analytics.png">
+<img src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/conversational-analytics.png">
 
 Welcome to the fullstack **Conversational Analytics** Generative AI application. This simple application lets customers send feedback while our system identifies Key Topics, Overall Sentiment, and Emerging Trends using a Large Language Model (LLM). 
 
@@ -100,8 +100,7 @@ Conversational-analytics/
 1. Clone the repository and open the folder at your IDE or terminal:
 
     ```bash
-    git clone https://github.com/genieincodebottle/generative-ai.git
-    cd generative-ai/genai_usecases/conversational-analytics
+    git clone https://github.com/bjg2003/Conversational-Analytics-generative-ai-.git
     ```
 2. Set up your Google Gemini-pro API key:
     - Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
@@ -142,9 +141,9 @@ Conversational-analytics/
     - Send the request to create an admin user
     - Screenshots
     <br>
-    <img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/postman-1.png">
+    <img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/postman-1.png">
     <br>
-    <img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/postman-2.png">
+    <img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/postman-2.png">
 
     Note: If you want to use curl command instead of postman then run following curl command after changing X-Admin-key value and username & password
     ```bash
@@ -175,25 +174,25 @@ Conversational-analytics/
 ## 📸 Screenshots
 
 1. Login <br>
-<img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/login.png">
+<img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/login.png">
 
 2. Register<br>
-<img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/register.png">
+<img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/register.png">
 
 3. User Home Page<br>
-<img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/user-home.png">
+<img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/user-home.png">
 
 4. Admin Home Page<br>
-<img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/admin-home.png">
+<img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/admin-home.png">
 
 5. User Feedback<br>
-<img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/user-feedback.png">
+<img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/user-feedback.png">
 
 6. Analytics<br>
-<img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/analytics.png">
+<img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/analytics.png">
 
 7. Feedback Details<br>
-<img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/feedback-details.png">
+<img width="400" src="https://github.com/bjg2003/Conversational-Analytics-generative-ai-/blob/main/images/feedback-details.png">
 
 ## 🛣️ Roadmap
 
